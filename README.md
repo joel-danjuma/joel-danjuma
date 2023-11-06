@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Im a Full Stack Web Developer with Over 2 years of experience devloping web applications. Im here to document my growth and show off a bit...Kidding.
-Im really excited about web development, blockchain security and AI.
-Im always open to collaborations and sharing my expertise.
+Im a Full Stack Web Developer with Over 2 years of experience devloping web applications. I'm here to document my growth and show off a bit...Kidding.
+I'm really excited about web development, blockchain security and AI.
+I'm always open to collaborations and sharing my expertise.
 
 - 🔭 I’m currently working on ... Paired
 - 🌱 I’m currently learning ... Solidity
