@@ -17,11 +17,6 @@ My key skills are Typescript, JavaScript, Python, NextJS, ReactJS, Prisma, Postg
 - 💬 Ask me about ... My portfolio
 - 📫 How to reach me: ... twitter @joeldanjuma_ 
 - 🧩 Blog: ... Medium @Joel_Danjuma
-  
-Certifications:
-- Learn Python, Codecademy
-- Learn JavaScript, Codecademy
-- Cloud Developer, Udacity Nano-degree
 
 I am passionate about technology and the tools to create meaningful solutions. I am always eager to collaborate and contribute to innovative projects. Let's connect and explore the possibilities together!
 
