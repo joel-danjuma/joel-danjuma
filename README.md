@@ -10,7 +10,7 @@ At Biild, I led the development of a sleek web application using TypeScript, Nex
 
 My key skills are Typescript, JavaScript, Python, NextJS, ReactJS, Prisma, PostgreSQL, MongoDB, REST API, and Cloud deployment (AWS, Digital Ocean, Vercel).
 
-- 🔭 I’m currently working on ... Dawn AI
+- 🔭 I’m currently working on ... Dawn AI , FundME and Paired
 - 🌱 I’m currently learning ... Solidity
 - 👯 I’m looking to collaborate on ... Projects relating to Web3
 - 🤔 I’m looking for help with ... Smart contract audits and blockchain security
