@@ -1,23 +1,59 @@
-### Hi there 👋
+# Joel Danjuma
 
-I am Joel Danjuma - a full-stack web developer with three years of hands-on experience. I have a deep interest in open source technology and I am constantly exploring new opportunities to expand my knowledge.
+## 👨‍💻 About Me
+Results-driven Full Stack Developer with expertise in building secure, scalable web applications and AI solutions. Currently pursuing an MSc in Data Science at Northumbria University while actively developing innovative solutions in the AI and Web3 space.
 
-My journey as a Web Developer started as an intern at Lightech Consulting. There, I honed my skills in crafting search engine optimised content, where I utilised HTML, CSS, and React to create functional static web pages.
+## 🛠 Technical Stack
+- **Languages**: TypeScript, Python, JavaScript, HTML, Solidity, Vyper
+- **Frontend**: React, NextJS, TailwindCSS, Flutter
+- **Backend**: NodeJS, ExpressJS, FastAPI
+- **Databases**: PostgreSQL, MongoDB
+- **Tools**: Docker, Kubernetes
+- **Cloud**: AWS, Digital Ocean, Render, Vercel
 
-At Gwaree Foods, I developed an E-commerce application from scratch, using TypeScript, NextJS, Prisma, and PostgreSQL. I employed Clerk Auth to make authentication seamless while ensuring robust database structuring using Prisma ORM and optimised SEO with NextJS Metadata API and Open-graph standard.
+## 💼 Professional Experience
 
-At Biild, I led the development of a sleek web application using TypeScript, NextJS, and Tailwind CSS. I focused on modern UI/UX paradigms with Next-UI and Framer Motion, and also integrated an efficient email response service using Resend API, streamlining user engagement.
+### Senior Full Stack Developer @ Biild
+- Led multi-team development of three distinct applications (backend service, web app, mobile app)
+- Secured $3000 grant from Solana Foundation for ALONG ridesharing application
+- Developed and published "alongsdk" NPM package using TypeScript
+- Implemented Web3 payment features using SolanaPay
 
-My key skills are Typescript, JavaScript, Python, NextJS, ReactJS, Prisma, PostgreSQL, MongoDB, REST API, and Cloud deployment (AWS, Digital Ocean, Vercel).
+### AI Developer @ Convers AI & Dawn AI
+- Built scalable AI agents using Vercel AI SDK, Groq API, and LangchainJS
+- Enhanced agent accuracy using RAG techniques with Vector embeddings
+- Led development of full-stack education service with TypeScript and NextJS
+- Implemented robust authentication systems using AuthJS
 
-- 🔭 I’m currently working on ... Dawn AI , FundME and Paired
-- 🌱 I’m currently learning ... Solidity
-- 👯 I’m looking to collaborate on ... Projects relating to Web3
-- 🤔 I’m looking for help with ... Smart contract audits and blockchain security
-- 💬 Ask me about ... My portfolio
-- 📫 How to reach me: ... twitter @joeldanjuma_ 
-- 🧩 Blog: ... Medium @Joel_Danjuma
+### Full Stack Developer @ Fund Me
+- Developed P2P Loan and Currency Transfer services
+- Implemented Role-Based Access Control (RBAC) for FinTech applications
+- Built scalable applications using NextJS, MongoDB, and PrismaORM
 
-I am passionate about technology and the tools to create meaningful solutions. I am always eager to collaborate and contribute to innovative projects. Let's connect and explore the possibilities together!
+## 🚀 Notable Projects
 
+### Go Beta
+A bus ride booking service API built with Python and FastAPI
+[GitHub](https://github.com/joeldanjuma/GoBeta)
 
+### Paired
+A roommate and shared flat search service built with TypeScript, NextJS, and React
+[Live Site](https://pairedapp.com)
+
+## 🎓 Education
+- MSc Data Science @ Northumbria University (In Progress)
+- BSc Economics @ Baze University
+
+## 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/joeldanjuma)
+- [Email](mailto:leojjad@gmail.com)
+
+## 🔥 Currently
+- Building AI solutions with modern LLM architectures
+- Exploring Web3 development with Solana & Ethereum
+- Developing scalable full-stack applications
+- Studying advanced Data Science concepts
+
+---
+
+*I'm always interested in collaborating on innovative projects, particularly in AI, Web3, and scalable web applications. Let's build something amazing together!*
